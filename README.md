@@ -1,1 +1,1 @@
-# borsa-takip
+# Canlı döviz kuru
