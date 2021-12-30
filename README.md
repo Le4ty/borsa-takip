@@ -1,1 +1,1 @@
-# Canlı döviz kuru
+# Canlı döviz ve Altın kuru
